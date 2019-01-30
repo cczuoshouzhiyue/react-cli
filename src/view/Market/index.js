@@ -27,7 +27,7 @@ export default class Market extends Component {
                                 <a>
                                     <span>各种水果</span>
                                     <p>这是一个神奇的水果</p>
-                                    <span>因子个数:11111111</span>
+                                    <span>个数:11111111</span>
                                 </a>
                             </div>
                         </Col>
@@ -53,7 +53,7 @@ export default class Market extends Component {
                             <div className='market-cell' onClick={this.handleClick}>
                                 <a>
                                     <span>各种水果</span>
-                                    <p>这是一个神奇的因子</p>
+                                    <p>这是一个神奇的</p>
                                     <span>个数:444444444</span>
                                 </a>
                             </div>
@@ -62,7 +62,7 @@ export default class Market extends Component {
                             <div className='market-cell' onClick={this.handleClick}>
                                 <a>
                                     <span>各种水果</span>
-                                    <p>这是一个神奇的因子</p>
+                                    <p>这是一个神奇的</p>
                                     <span>个数:444444444</span>
                                 </a>
                             </div>
